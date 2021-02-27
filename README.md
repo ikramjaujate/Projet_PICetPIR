@@ -9,7 +9,7 @@ Notre groupe est composée de :
 * Ikram Jaujate Ouldkhala ( *__@ikramjaujate__* )
 * Aurélien Brille ( *__@__* )
 * Mikael De Pret ( *__@__* )
-* Sébastien Volont ( *__@__* )
+* Sébastien Volont ( *__@sebastienvolont__* )
 
 
 ## Description du projet
