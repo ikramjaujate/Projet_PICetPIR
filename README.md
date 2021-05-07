@@ -7,7 +7,7 @@ Nous sommes le groupe n°4.
 Notre groupe est composée de :
 * Julie Fino ( *@__juliefino__* )
 * Ikram Jaujate Ouldkhala ( *__@ikramjaujate__* )
-* Aurélien Brille ( *__@__* )
+* Aurélien Brille ( *__@youichii__* )
 * Mikael De Pret ( *__@de-Pret-Mikael__* )
 * Sébastien Volont ( *__@sebastienvolont__* )
 
